@@ -16,6 +16,8 @@ O projeto consiste em resolver problemas do site LeetCode utilizando programaç�
 | Nome do Problema | Link | Dificuldade | Resolução |
 | -- | -- | -- | -- |
 | 712. Minimum ASCII Delete Sum for Two Strings | [LeetCode](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/?envType=problem-list-v2&envId=dynamic-programming) | Média | [Resolução](/712_minimum_ascii_delete_sum_for_two_strings/Solution.py) |
+| 1235. Maximum Profit in Job Scheduling | [LeetCode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=problem-list-v2&envId=dynamic-programming) | Díficil | [Resolução](/1235_maximum_profit_in_job_scheduling/Solution.py) |
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
