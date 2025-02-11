@@ -24,3 +24,4 @@ class Solution(object):
     
         # Retorna a soma mínima do caminho até a célula (m-1, n-1)
         return dist[m-1][n-1]
+    
